@@ -1,0 +1,1 @@
+http://raspmer.blogspot.com/2015/07/how-to-use-rfid-rc522-on-raspbian.html
